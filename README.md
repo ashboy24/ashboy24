@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Calender Using JavaScript!**
 
-- 🌱 I’m currently learning **DOM manipulation**
+- 🌱 I’m currently learning **DOM Manipulation!**
 
 - 👯 I’m looking to collaborate on **work on open source projects!**
 
