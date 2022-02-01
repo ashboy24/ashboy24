@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **a Mini Facebook!**
+- 🔭 I’m currently working on **a Calender Using JavaScript!**
 
 - 🌱 I’m currently learning **DOM manipulation**
 
