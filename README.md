@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/93883226/152371360-375725d4-0392-4f70-a218-0ec926604e64.png)
+
+
 <h1 align="center">Hi there👋, I'm Aseesh Sai</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
