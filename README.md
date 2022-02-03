@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/93883226/152371360-375725d4-0392-4f70-a218-0ec926604e64.png)
+![image](https://user-images.githubusercontent.com/93883226/152371655-92948091-8c34-4edc-93e1-8476e139dfb4.png)
 
 
 <h1 align="center">Hi there👋, I'm Aseesh Sai</h1>
