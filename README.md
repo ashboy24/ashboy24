@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a Calender Using JavaScript!**
 
-- 🌱 I’m currently learning **DOM Manipulation!**
+- 🌱 I’m currently learning **About NPM and NPM scripts!**
 
 - 👯 I’m looking to collaborate on **work on open source projects!**
 
