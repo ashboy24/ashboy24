@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **a CALENDER using JavaScript!**
+- 🔭 I’m currently working on **a Clock using JavaScript!**
 
 - 🌱 I’m currently learning **React!**
 
