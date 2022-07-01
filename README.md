@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a Clock using JavaScript!**
 
-- 🌱 I’m currently learning **React!**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **work on open source projects!**
 
