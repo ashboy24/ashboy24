@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aseeshabhi2002@gmail.com**
 
-- ⚡ Fun fact **“One thing I use every day that I could probably live without is Netflix.”**
+- ⚡ Fun fact **“One thing I use every day that I could probably live without is Social Media.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
