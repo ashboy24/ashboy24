@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **VIDEO CONTROLLED WEBSITE!**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript alongside DSA**
 
 - 👯 I’m looking to collaborate on **work on open source projects!**
 
