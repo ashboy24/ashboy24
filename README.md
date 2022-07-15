@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aseesh Sai</h1>
 <h3 align="center">Passionate Frontend Developer.</h3>
 
-- 🔭 I’m currently working on **VIDEO CONTROLLED WEBSITE!**
+- 🔭 I’m currently working on **Nothing ;)!**
 
 - 🌱 I’m currently learning **JavaScript alongside DSA**
 
