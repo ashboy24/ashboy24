@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Nothing ;)!**
 
-- 🌱 I’m currently learning **JavaScript alongside DSA**
+- 🌱 I’m currently learning **JavaScript alongside DSA!**
 
 - 👯 I’m looking to collaborate on **work on open source projects!**
 
