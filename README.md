@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript alongside DSA!**
 
-- 👯 I’m looking to collaborate on **work on open source projects!**
+- 👯 I’m looking to collaborate on **Work on open source projects!**
 
 - 📫 How to reach me **aseeshabhi2002@gmail.com**
 
