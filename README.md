@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aseesh Sai</h1>
 <h3 align="center">___Passionate Full Stack Developer___</h3>
 
-- 🔭 I’m currently working on **Nothing ;)!**
+- 🔭 I’m currently working on **React!**
 
 - 🌱 I’m currently learning **LinkedList, Stack, Queue!**
 
