@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Aseesh</h1>
 <h3 align="center">___Passionate Full Stack Developer___</h3>
 
-- 🔭 I’m currently working on **React!**
+- 🔭 I’m currently working on **LSTM machine learning model!**
 
-- 🌱 I’m currently learning **Queues and heaps!**
+- 🌱 I’m currently learning **Different machine learning models and trying to implement them on real world problems!**
 
-- 👯 I’m looking to collaborate on **Work on Open source projects!**
+- 👯 I’m looking to collaborate on **various research oppurtunities**
 
 - 📫 How to reach me **aseeshabhi2002@gmail.com**
 
