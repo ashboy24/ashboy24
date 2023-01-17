@@ -23,8 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashboy24&show_icons=true&theme=highcontrast&title_color=5df93e&text_color=00ff2a&hide_border=true&locale=en" alt="ashboy24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashboy24&theme=highcontrast" alt="ashboy24" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ashboy24&bg_color=000000&color=00ff11&line=0400ff&point=00ff1e&area=true&hide_border=true" alt="ashboy24" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashboy24&label=Profile%20views&color=0e75b6&style=flat" alt="ashboy24" /> </p>
