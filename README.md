@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/93883226/152371655-92948091-8c34-4edc-93e1-8476e139dfb4.png)
 <h1 align="center">Hi 👋, I'm Aseesh</h1>
-<h3 align="center">___Passionate Full Stack Developer___</h3>
+<h3 align="center">Machine Learning Engineer!</h3>
 
-- 🔭 I’m currently working on **LSTM machine learning model!**
+- 🔭 I’m currently working on **Recurrent Learning in Deep Learning in Manufacturing Applications. - IIT Kharagpur**
 
 - 🌱 I’m currently learning **Different machine learning models and trying to implement them on real world problems!**
 
